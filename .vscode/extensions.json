@@ -6,7 +6,7 @@
     "foam.foam-vscode",
 
     // Prettier for auto formatting code
-    "esbenp.prettier-vscode",
+    // "esbenp.prettier-vscode",
 
     // GitLens for seeing version history inline
     "eamodio.gitlens",
@@ -21,6 +21,6 @@
     "tchayen.markdown-links",
 
     // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
+    // "philipbe.theme-gray-matter"
   ]
 }
